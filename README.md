@@ -1,2 +1,2 @@
-# tilt
-Tilt.js
+# paratest
+Parallax effect Demo
